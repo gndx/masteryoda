@@ -1,0 +1,12 @@
+{
+  "development": {
+    "apiUrl": "https://masteryoda.herokuapp.com",
+    "contentApiKey": "fd59d30feddbe2369c410d4918",
+    "version": "v2"
+  },
+  "production": {
+    "apiUrl": "https://masteryoda.herokuapp.com",
+    "contentApiKey": "fd59d30feddbe2369c410d4918",
+    "version": "v2"
+  }
+}
